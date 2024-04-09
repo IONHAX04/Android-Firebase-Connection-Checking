@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "991992188334",
+    "project_id": "android-studio-ionhax-project",
+    "storage_bucket": "android-studio-ionhax-project.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:991992188334:android:18fc844e24d54c17d3cc3f",
+        "android_client_info": {
+          "package_name": "com.example.androidstudioionhaxproject"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZtGMQX2yicr4EK3rmdea4STn4VDlmD-8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

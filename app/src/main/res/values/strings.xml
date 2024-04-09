@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Android Studio Ionhax Project</string>
+    <string name="sslc_percentage_hint">Enter your SSLC Percentage</string>
+    <string name="sslc_cgpa_hint">Enter your SSLC CGPA</string>
+    <string name="hsc_percentage_hint">Enter your HSC Percentage</string>
+    <string name="hsc_cgpa_hint">Enter your HSC CGPA</string>
+    <string-array name="percentage_cgpa_options">
+        <item>Select</item>
+        <item>Percentage</item>
+        <item>CGPA</item>
+    </string-array>
+</resources>
